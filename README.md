@@ -59,6 +59,8 @@ git log
 ```
 git add <file>
 ```
-
-
-## 🔎 | Referências
+## 🔎 | Materiais de apoio
+- [ProGit](https://git-scm.com/book/en/v2)
+- [GitIgnore](https://www.toptal.com/developers/gitignore/)
+- [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8)
+- [GitFluence](https://gitfluence.com/)
